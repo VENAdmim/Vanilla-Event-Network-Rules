@@ -1,35 +1,35 @@
-Hacked Clients and Cheating:
-  Hacked clients are not allowed
-  Use of Macros are not allowed
-  Use of player finder is not allowed
-  Finding exploits in the game to gain an advantage is not allowed 
-  All of these rules if broken lead to a 1 week ban, followed by a permanent ban if broken once more
+# Hacked Clients and Cheating:
+- Hacked clients are not allowed
+- Use of Macros are not allowed
+- Use of player finder is not allowed
+- Finding exploits in the game to gain an advantage is not allowed 
+All of these rules if broken lead to a 1 week ban, followed by a permanent ban if broken once more
   
-Player Etiquette
-    Do not lag the server in any way
-        7 day ban
-    Do not interrupt fights on purpose
-        Hour ban
-    Do not use /repair or /fix or /kit during combat
-        Day Ban
-    Do not ban evade
-        Elongated ban
-    Do no doxx
-        Permanent Ban
-   Do not blatantly disrespect any staff member
-        Kick, mute
-   Use common sense on the server, if you have a question--Ask us!
-   Do not find loopholes in the chat plug-in
-        Results in mute
+# Player Etiquette
+- Do not lag the server in any way
+    - 7 day ban
+- Do not interrupt fights on purpose
+    - Hour ban
+- Do not use /repair or /fix or /kit during combat
+    - Day Ban
+- Do not ban evade
+    - Elongated ban
+- Do not doxx
+    - Permanent Ban
+- Do not blatantly disrespect any staff member
+    - Kick, mute
+Use common sense on the server, if you have a question--Ask us!
+Do not exploit loopholes in the chat plug-in
+- Results in mute
         
- Donor Rules
-    No harmful nicknames
-    Do not abuse creative
-    Do not abuse spectator
-    Do not impersonate players with nicknames
+# Donor Rules
+- No harmful nicknames
+- Do not abuse creative
+- Do not abuse spectator
+- Do not impersonate players with nicknames
     
- Standard Netherite PvP Kit
-    4 pieces of Armor
-    3 Stacks of EXP
-    No enchanted golden apples
-    This isn't enforced, but is recommeneded due to affiliation with tier list!
+# Standard Netherite PvP Kit
+- 4 pieces of Armor
+- 3 Stacks of EXP
+- No enchanted golden apples
+    - This isn't enforced, but is recommeneded due to affiliation with tier list!
